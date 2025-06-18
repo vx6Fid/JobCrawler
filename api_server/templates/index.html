@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Job Trend Analyzer</title>
+    <link rel="stylesheet" href="../static/style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <script src="../static/style.js" defer></script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <header class="header">
+        <h1 class="title">Job Trend Analyzer</h1>
+        <p class="subtitle">Visual insights for tech job markets</p>
+      </header>
+
+      <main class="content">
+        <div class="form-group">
+          <label for="role" class="form-label">Select a Job Role</label>
+          <select id="role" name="role" class="form-select">
+            <option value="">General</option>
+            <option value="AI engineer">AI Engineer</option>
+            <option value="ERP consultant">ERP Consultant</option>
+            <option value="IoT developer">IoT Developer</option>
+            <option value="application support analyst">
+              Application Support Analyst
+            </option>
+            <option value="backend">Backend</option>
+            <option value="blockchain developer">Blockchain Developer</option>
+            <option value="business analyst">Business Analyst</option>
+            <option value="business intelligence developer">
+              Business Intelligence Developer
+            </option>
+            <option value="chatbot developer">Chatbot Developer</option>
+            <option value="cloud engineer">Cloud Engineer</option>
+            <option value="content strategist">Content Strategist</option>
+            <option value="data analyst">Data Analyst</option>
+            <option value="data engineer">Data Engineer</option>
+            <option value="data scientist">Data Scientist</option>
+            <option value="data visualization expert">
+              Data Visualization Expert
+            </option>
+            <option value="database administrator">
+              Database Administrator
+            </option>
+            <option value="developer">Developer</option>
+            <option value="digital marketing specialist">
+              Digital Marketing Specialist
+            </option>
+            <option value="digital product designer">
+              Digital Product Designer
+            </option>
+            <option value="devops">DevOps</option>
+            <option value="e-commerce specialist">E-Commerce Specialist</option>
+            <option value="engineer">Engineer</option>
+            <option value="fullstack engineer">Fullstack Engineer</option>
+            <option value="game developer">Game Developer</option>
+            <option value="help desk technician">Help Desk Technician</option>
+            <option value="IT consultant">IT Consultant</option>
+            <option value="IT project manager">IT Project Manager</option>
+            <option value="machine learning engineer">
+              Machine Learning Engineer
+            </option>
+            <option value="mobile application tester">
+              Mobile Application Tester
+            </option>
+            <option value="mobile developer">Mobile Developer</option>
+            <option value="network engineer">Network Engineer</option>
+            <option value="product manager">Product Manager</option>
+            <option value="product owner">Product Owner</option>
+            <option value="programmer">Programmer</option>
+            <option value="quality assurance engineer">
+              Quality Assurance Engineer
+            </option>
+            <option value="RPA developer">RPA Developer</option>
+            <option value="research scientist">Research Scientist</option>
+            <option value="sales engineer">Sales Engineer</option>
+            <option value="scrum master">Scrum Master</option>
+            <option value="security engineer">Security Engineer</option>
+            <option value="site reliability engineer">
+              Site Reliability Engineer
+            </option>
+            <option value="software development manager">
+              Software Development Manager
+            </option>
+            <option value="software engineer">Software Engineer</option>
+            <option value="system administrator">System Administrator</option>
+            <option value="system architect">System Architect</option>
+            <option value="technical support engineer">
+              Technical Support Engineer
+            </option>
+            <option value="technical writer">Technical Writer</option>
+            <option value="test automation engineer">
+              Test Automation Engineer
+            </option>
+            <option value="ui/ux designer">UI/UX Designer</option>
+            <option value="user researcher">User Researcher</option>
+            <option value="video game tester">Video Game Tester</option>
+            <option value="web designer">Web Designer</option>
+            <option value="web developer">Web Developer</option>
+          </select>
+        </div>
+
+        <button id="crawl-btn" class="primary-button">
+          <span class="button-text">Analyze Role</span>
+          <span class="button-icon"><i class="fas fa-chart-line"></i></span>
+        </button>
+
+        <div class="status-container">
+          <div id="status" class="status-message"></div>
+          <div id="countdown" class="countdown"></div>
+        </div>
+
+        <div id="trends" class="results-container">
+          <div class="chart-container">
+            <h2><i class="fas fa-code"></i> Top 10 Skills</h2>
+            <div id="skillsChart"></div>
+          </div>
+
+          <div class="chart-container">
+            <h2><i class="fas fa-map-marker-alt"></i> Top Locations</h2>
+            <div id="locationsChart"></div>
+          </div>
+
+          <div class="chart-container">
+            <h2><i class="fas fa-building"></i> Top Companies</h2>
+            <div id="companiesChart"></div>
+          </div>
+
+          <div class="chart-container">
+            <h2><i class="fas fa-user-tie"></i> Experience Levels</h2>
+            <canvas id="experienceChart"></canvas>
+          </div>
+        </div>
+      </main>
+    </div>
+  </body>
+</html>

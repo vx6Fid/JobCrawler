@@ -1,0 +1,315 @@
+2025/06/05 23:30:46 [mongo] TTL index on 'CreatedAt' ensured.
+2025/06/05 23:30:46 [mongo] Connected to MongoDB
+2025/06/05 23:30:46 [api] API server running on :8080
+2025/06/05 23:30:51 [mongo] TTL index on 'CreatedAt' ensured.
+2025/06/05 23:30:51 [mongo] Connected to MongoDB
+2025/06/05 23:30:51 Crawling: https://weworkremotely.com/remote-jobs/search?term=devops [listing]
+2025/06/05 23:30:51 [STEP] Starting fetch: https://weworkremotely.com/remote-jobs/search?term=devops
+2025/06/05 23:30:56 [STEP] Entered listing handler for: https://weworkremotely.com/remote-jobs/search?term=devops
+2025/06/05 23:30:56 [STEP] Parse started
+2025/06/05 23:30:56 [STEP] -> [weworkremotely] Found job: DevOps Engineer at Paymentology
+2025/06/05 23:30:56 [STEP] -> [weworkremotely] Found job: Senior Account Lead at Sanctuary Computer
+2025/06/05 23:30:56 [STEP] -> [weworkremotely] Found job: Project coordinator at Sana Vita Operations LLC
+2025/06/05 23:30:56 [STEP] -> [weworkremotely] Found job: Senior Devops Engineer at Cheqpay.mx
+2025/06/05 23:30:56 [STEP] -> [weworkremotely] Found job: Senior DevOps Engineer (Azure) at Proxify AB
+2025/06/05 23:30:56 [STEP] -> [weworkremotely] Found job: Site Reliability Engineer at Chipcolate
+2025/06/05 23:30:56 [STEP] Parse completed
+2025/06/05 23:30:56 [STEP] List fetch completed: https://weworkremotely.com/remote-jobs/search?term=devops
+2025/06/05 23:30:56 Crawling: https://weworkremotely.com/listings/paymentology-devops-engineer-2 [job]
+2025/06/05 23:30:56 [STEP] Starting fetch: https://weworkremotely.com/listings/paymentology-devops-engineer-2
+2025/06/05 23:30:57 [STEP] Entered listing handler for: https://weworkremotely.com/remote-jobs/search?term=devops
+2025/06/05 23:30:57 [STEP] Parse started
+2025/06/05 23:30:57 [STEP] -> [weworkremotely] Found job: Golang Engineer at Canonical
+2025/06/05 23:30:57 [STEP] -> [weworkremotely] Found job: Cloud Engineer - GCP at Paymentology
+2025/06/05 23:30:57 [STEP] -> [weworkremotely] Found job: Senior Data Engineer at DRW
+2025/06/05 23:30:57 [STEP] Parse completed
+2025/06/05 23:30:57 [STEP] Entered job handler for: https://weworkremotely.com/listings/paymentology-devops-engineer-2
+2025/06/05 23:30:57 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/paymentology-devops-engineer-2
+2025/06/05 23:30:57 --- [ERROR] --- Job parser error: failed to parse job description: title or company missing
+2025/06/05 23:30:57 [STEP] Job fetch completed: https://weworkremotely.com/listings/paymentology-devops-engineer-2
+2025/06/05 23:30:57 Crawling: https://weworkremotely.com/listings/sanctuary-computer-senior-account-lead [job]
+2025/06/05 23:30:57 [STEP] Starting fetch: https://weworkremotely.com/listings/sanctuary-computer-senior-account-lead
+2025/06/05 23:30:59 [STEP] Entered listing handler for: https://weworkremotely.com/remote-jobs/search?term=devops
+2025/06/05 23:30:59 [STEP] Parse started
+2025/06/05 23:30:59 [STEP] -> [weworkremotely] Found job: DevOps Engineer at Paymentology
+2025/06/05 23:30:59 [STEP] -> [weworkremotely] Found job: Golang Engineer at Canonical
+2025/06/05 23:30:59 [STEP] -> [weworkremotely] Found job: Cloud Engineer - GCP at Paymentology
+2025/06/05 23:30:59 [STEP] Parse completed
+2025/06/05 23:30:59 [STEP] Entered job handler for: https://weworkremotely.com/listings/paymentology-devops-engineer-2
+2025/06/05 23:30:59 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/sanctuary-computer-senior-account-lead
+2025/06/05 23:30:59 --- [ERROR] --- Job parser error: failed to parse job description: title or company missing
+2025/06/05 23:30:59 [STEP] Entered job handler for: https://weworkremotely.com/listings/sanctuary-computer-senior-account-lead
+2025/06/05 23:30:59 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/sanctuary-computer-senior-account-lead
+2025/06/05 23:30:59 --- [ERROR] --- Job parser error: failed to parse job description: title or company missing
+2025/06/05 23:30:59 [STEP] Job fetch completed: https://weworkremotely.com/listings/sanctuary-computer-senior-account-lead
+2025/06/05 23:30:59 Crawling: https://weworkremotely.com/listings/sana-vita-operations-llc-project-coordinator [job]
+2025/06/05 23:30:59 [STEP] Starting fetch: https://weworkremotely.com/listings/sana-vita-operations-llc-project-coordinator
+2025/06/05 23:31:00 [STEP] Entered listing handler for: https://weworkremotely.com/remote-jobs/search?term=devops
+2025/06/05 23:31:00 [STEP] Parse started
+2025/06/05 23:31:00 [STEP] -> [weworkremotely] Found job: DevOps Engineer at Paymentology
+2025/06/05 23:31:00 [STEP] -> [weworkremotely] Found job: Golang Engineer at Canonical
+2025/06/05 23:31:00 [STEP] -> [weworkremotely] Found job: Cloud Engineer - GCP at Paymentology
+2025/06/05 23:31:00 [STEP] Parse completed
+2025/06/05 23:31:00 [STEP] Entered job handler for: https://weworkremotely.com/listings/paymentology-devops-engineer-2
+2025/06/05 23:31:00 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/sana-vita-operations-llc-project-coordinator
+2025/06/05 23:31:00 --- [ERROR] --- Job parser error: failed to parse job description: title or company missing
+2025/06/05 23:31:00 [STEP] Entered job handler for: https://weworkremotely.com/listings/sanctuary-computer-senior-account-lead
+2025/06/05 23:31:00 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/sana-vita-operations-llc-project-coordinator
+2025/06/05 23:31:00 --- [ERROR] --- Job parser error: failed to parse job description: title or company missing
+2025/06/05 23:31:00 [STEP] Entered job handler for: https://weworkremotely.com/listings/sana-vita-operations-llc-project-coordinator
+2025/06/05 23:31:00 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/sana-vita-operations-llc-project-coordinator
+2025/06/05 23:31:00 --- [ERROR] --- Job parser error: failed to parse job description: title or company missing
+2025/06/05 23:31:00 [STEP] Job fetch completed: https://weworkremotely.com/listings/sana-vita-operations-llc-project-coordinator
+2025/06/05 23:31:00 Crawling: https://weworkremotely.com/listings/cheqpay-mx-senior-devops-engineer [job]
+2025/06/05 23:31:00 [STEP] Starting fetch: https://weworkremotely.com/listings/cheqpay-mx-senior-devops-engineer
+2025/06/05 23:31:01 [STEP] Entered listing handler for: https://weworkremotely.com/remote-jobs/search?term=devops
+2025/06/05 23:31:01 [STEP] Parse started
+2025/06/05 23:31:01 [STEP] -> [weworkremotely] Found job: DevOps Engineer at Paymentology
+2025/06/05 23:31:01 [STEP] -> [weworkremotely] Found job: Golang Engineer at Canonical
+2025/06/05 23:31:01 [STEP] -> [weworkremotely] Found job: Cloud Engineer - GCP at Paymentology
+2025/06/05 23:31:01 [STEP] Parse completed
+2025/06/05 23:31:01 [STEP] Entered job handler for: https://weworkremotely.com/listings/paymentology-devops-engineer-2
+2025/06/05 23:31:01 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/cheqpay-mx-senior-devops-engineer
+2025/06/05 23:31:01 [STEP] -> [weworkremotely] Parsed job: senior devops engineer at cheqpay
+2025/06/05 23:31:01 [mongo] Upserting job: senior devops engineer at cheqpay
+2025/06/05 23:31:01 [mongo] Job inserted: senior devops engineer at cheqpay
+2025/06/05 23:31:01 --- :) --- Saved job: senior devops engineer @ cheqpay
+2025/06/05 23:31:01 [STEP] Entered job handler for: https://weworkremotely.com/listings/sanctuary-computer-senior-account-lead
+2025/06/05 23:31:01 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/cheqpay-mx-senior-devops-engineer
+2025/06/05 23:31:01 [STEP] -> [weworkremotely] Parsed job: senior devops engineer at cheqpay
+2025/06/05 23:31:01 [mongo] Upserting job: senior devops engineer at cheqpay
+2025/06/05 23:31:01 [mongo] Job inserted: senior devops engineer at cheqpay
+2025/06/05 23:31:01 --- :) --- Saved job: senior devops engineer @ cheqpay
+2025/06/05 23:31:01 [STEP] Entered job handler for: https://weworkremotely.com/listings/sana-vita-operations-llc-project-coordinator
+2025/06/05 23:31:01 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/cheqpay-mx-senior-devops-engineer
+2025/06/05 23:31:01 [STEP] -> [weworkremotely] Parsed job: senior devops engineer at cheqpay
+2025/06/05 23:31:01 [mongo] Upserting job: senior devops engineer at cheqpay
+2025/06/05 23:31:01 [mongo] Job inserted: senior devops engineer at cheqpay
+2025/06/05 23:31:01 --- :) --- Saved job: senior devops engineer @ cheqpay
+2025/06/05 23:31:01 [STEP] Entered job handler for: https://weworkremotely.com/listings/cheqpay-mx-senior-devops-engineer
+2025/06/05 23:31:01 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/cheqpay-mx-senior-devops-engineer
+2025/06/05 23:31:01 [STEP] -> [weworkremotely] Parsed job: senior devops engineer at cheqpay
+2025/06/05 23:31:01 [mongo] Upserting job: senior devops engineer at cheqpay
+2025/06/05 23:31:01 [mongo] Job inserted: senior devops engineer at cheqpay
+2025/06/05 23:31:01 --- :) --- Saved job: senior devops engineer @ cheqpay
+2025/06/05 23:31:01 [STEP] Job fetch completed: https://weworkremotely.com/listings/cheqpay-mx-senior-devops-engineer
+2025/06/05 23:31:01 Crawling: https://weworkremotely.com/listings/proxify-ab-senior-devops-engineer-azure-1 [job]
+2025/06/05 23:31:01 [STEP] Starting fetch: https://weworkremotely.com/listings/proxify-ab-senior-devops-engineer-azure-1
+2025/06/05 23:31:02 [STEP] Entered listing handler for: https://weworkremotely.com/remote-jobs/search?term=devops
+2025/06/05 23:31:02 [STEP] Parse started
+2025/06/05 23:31:02 [STEP] -> [weworkremotely] Found job: DevOps Engineer at Paymentology
+2025/06/05 23:31:02 [STEP] -> [weworkremotely] Found job: Golang Engineer at Canonical
+2025/06/05 23:31:02 [STEP] -> [weworkremotely] Found job: Cloud Engineer - GCP at Paymentology
+2025/06/05 23:31:02 [STEP] Parse completed
+2025/06/05 23:31:02 [STEP] Entered job handler for: https://weworkremotely.com/listings/paymentology-devops-engineer-2
+2025/06/05 23:31:02 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/proxify-ab-senior-devops-engineer-azure-1
+2025/06/05 23:31:02 [STEP] -> [weworkremotely] Parsed job: senior devops engineer (azure) at about us:
+2025/06/05 23:31:02 [mongo] Upserting job: senior devops engineer (azure) at about us:
+2025/06/05 23:31:02 [mongo] Job inserted: senior devops engineer (azure) at about us:
+2025/06/05 23:31:02 --- :) --- Saved job: senior devops engineer (azure) @ about us:
+2025/06/05 23:31:02 [STEP] Entered job handler for: https://weworkremotely.com/listings/sanctuary-computer-senior-account-lead
+2025/06/05 23:31:02 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/proxify-ab-senior-devops-engineer-azure-1
+2025/06/05 23:31:02 [STEP] -> [weworkremotely] Parsed job: senior devops engineer (azure) at about us:
+2025/06/05 23:31:02 [mongo] Upserting job: senior devops engineer (azure) at about us:
+2025/06/05 23:31:03 [mongo] Job inserted: senior devops engineer (azure) at about us:
+2025/06/05 23:31:03 --- :) --- Saved job: senior devops engineer (azure) @ about us:
+2025/06/05 23:31:03 [STEP] Entered job handler for: https://weworkremotely.com/listings/sana-vita-operations-llc-project-coordinator
+2025/06/05 23:31:03 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/proxify-ab-senior-devops-engineer-azure-1
+2025/06/05 23:31:03 [STEP] -> [weworkremotely] Parsed job: senior devops engineer (azure) at about us:
+2025/06/05 23:31:03 [mongo] Upserting job: senior devops engineer (azure) at about us:
+2025/06/05 23:31:03 [mongo] Job inserted: senior devops engineer (azure) at about us:
+2025/06/05 23:31:03 --- :) --- Saved job: senior devops engineer (azure) @ about us:
+2025/06/05 23:31:03 [STEP] Entered job handler for: https://weworkremotely.com/listings/cheqpay-mx-senior-devops-engineer
+2025/06/05 23:31:03 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/proxify-ab-senior-devops-engineer-azure-1
+2025/06/05 23:31:03 [STEP] -> [weworkremotely] Parsed job: senior devops engineer (azure) at about us:
+2025/06/05 23:31:03 [mongo] Upserting job: senior devops engineer (azure) at about us:
+2025/06/05 23:31:03 [mongo] Job inserted: senior devops engineer (azure) at about us:
+2025/06/05 23:31:03 --- :) --- Saved job: senior devops engineer (azure) @ about us:
+2025/06/05 23:31:03 [STEP] Entered job handler for: https://weworkremotely.com/listings/proxify-ab-senior-devops-engineer-azure-1
+2025/06/05 23:31:03 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/proxify-ab-senior-devops-engineer-azure-1
+2025/06/05 23:31:03 [STEP] -> [weworkremotely] Parsed job: senior devops engineer (azure) at about us:
+2025/06/05 23:31:03 [mongo] Upserting job: senior devops engineer (azure) at about us:
+2025/06/05 23:31:03 [mongo] Job inserted: senior devops engineer (azure) at about us:
+2025/06/05 23:31:03 --- :) --- Saved job: senior devops engineer (azure) @ about us:
+2025/06/05 23:31:03 [STEP] Job fetch completed: https://weworkremotely.com/listings/proxify-ab-senior-devops-engineer-azure-1
+2025/06/05 23:31:03 Crawling: https://weworkremotely.com/listings/chipcolate-site-reliability-engineer [job]
+2025/06/05 23:31:03 [STEP] Starting fetch: https://weworkremotely.com/listings/chipcolate-site-reliability-engineer
+2025/06/05 23:31:04 [STEP] Entered listing handler for: https://weworkremotely.com/remote-jobs/search?term=devops
+2025/06/05 23:31:04 [STEP] Parse started
+2025/06/05 23:31:04 [STEP] -> [weworkremotely] Found job: DevOps Engineer at Paymentology
+2025/06/05 23:31:04 [STEP] -> [weworkremotely] Found job: Golang Engineer at Canonical
+2025/06/05 23:31:04 [STEP] -> [weworkremotely] Found job: Cloud Engineer - GCP at Paymentology
+2025/06/05 23:31:04 [STEP] Parse completed
+2025/06/05 23:31:04 [STEP] Entered job handler for: https://weworkremotely.com/listings/paymentology-devops-engineer-2
+2025/06/05 23:31:04 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/chipcolate-site-reliability-engineer
+2025/06/05 23:31:04 [STEP] -> [weworkremotely] Parsed job: site reliability engineer at chipcolate
+2025/06/05 23:31:04 [mongo] Upserting job: site reliability engineer at chipcolate
+2025/06/05 23:31:04 [mongo] Job inserted: site reliability engineer at chipcolate
+2025/06/05 23:31:04 --- :) --- Saved job: site reliability engineer @ chipcolate
+2025/06/05 23:31:04 [STEP] Entered job handler for: https://weworkremotely.com/listings/sanctuary-computer-senior-account-lead
+2025/06/05 23:31:04 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/chipcolate-site-reliability-engineer
+2025/06/05 23:31:04 [STEP] -> [weworkremotely] Parsed job: site reliability engineer at chipcolate
+2025/06/05 23:31:04 [mongo] Upserting job: site reliability engineer at chipcolate
+2025/06/05 23:31:04 [mongo] Job inserted: site reliability engineer at chipcolate
+2025/06/05 23:31:04 --- :) --- Saved job: site reliability engineer @ chipcolate
+2025/06/05 23:31:04 [STEP] Entered job handler for: https://weworkremotely.com/listings/sana-vita-operations-llc-project-coordinator
+2025/06/05 23:31:04 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/chipcolate-site-reliability-engineer
+2025/06/05 23:31:04 [STEP] -> [weworkremotely] Parsed job: site reliability engineer at chipcolate
+2025/06/05 23:31:04 [mongo] Upserting job: site reliability engineer at chipcolate
+2025/06/05 23:31:05 [mongo] Job inserted: site reliability engineer at chipcolate
+2025/06/05 23:31:05 --- :) --- Saved job: site reliability engineer @ chipcolate
+2025/06/05 23:31:05 [STEP] Entered job handler for: https://weworkremotely.com/listings/cheqpay-mx-senior-devops-engineer
+2025/06/05 23:31:05 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/chipcolate-site-reliability-engineer
+2025/06/05 23:31:05 [STEP] -> [weworkremotely] Parsed job: site reliability engineer at chipcolate
+2025/06/05 23:31:05 [mongo] Upserting job: site reliability engineer at chipcolate
+2025/06/05 23:31:05 [mongo] Job inserted: site reliability engineer at chipcolate
+2025/06/05 23:31:05 --- :) --- Saved job: site reliability engineer @ chipcolate
+2025/06/05 23:31:05 [STEP] Entered job handler for: https://weworkremotely.com/listings/proxify-ab-senior-devops-engineer-azure-1
+2025/06/05 23:31:05 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/chipcolate-site-reliability-engineer
+2025/06/05 23:31:05 [STEP] -> [weworkremotely] Parsed job: site reliability engineer at chipcolate
+2025/06/05 23:31:05 [mongo] Upserting job: site reliability engineer at chipcolate
+2025/06/05 23:31:05 [mongo] Job inserted: site reliability engineer at chipcolate
+2025/06/05 23:31:05 --- :) --- Saved job: site reliability engineer @ chipcolate
+2025/06/05 23:31:05 [STEP] Entered job handler for: https://weworkremotely.com/listings/chipcolate-site-reliability-engineer
+2025/06/05 23:31:05 [STEP] ParseJobDescription started for: https://weworkremotely.com/listings/chipcolate-site-reliability-engineer
+2025/06/05 23:31:05 [STEP] -> [weworkremotely] Parsed job: site reliability engineer at chipcolate
+2025/06/05 23:31:05 [mongo] Upserting job: site reliability engineer at chipcolate
+2025/06/05 23:31:05 [mongo] Job inserted: site reliability engineer at chipcolate
+2025/06/05 23:31:05 --- :) --- Saved job: site reliability engineer @ chipcolate
+2025/06/05 23:31:05 [STEP] Job fetch completed: https://weworkremotely.com/listings/chipcolate-site-reliability-engineer
+2025/06/05 23:31:05 Crawling: https://weworkremotely.com/listings/canonical-golang-engineer [job]
+2025/06/05 23:31:05 [STEP] Starting fetch: https://weworkremotely.com/listings/canonical-golang-engineer
+2025/06/05 23:31:08 [STEP] Entered listing handler for: https://weworkremotely.com/remote-jobs/search?term=devops
+2025/06/05 23:31:08 [STEP] Parse started
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Collections Account Manager at Clipboard Health
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Head Bookkeeper at Solé Bicycles
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: (Loom video required!) Executive Assistant to the CEO | Bookyourdata at Bookyourdata
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Freelance Project Manager (Marketing Websites / WordPress) at TELL ME MORE®
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: IFRS Accountant with Multiple Jurisdiction Experience at Flag Theory
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Marketing Automation SaaS + Services Line of Business Owner at New Law Business Model
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Business Analyst at Elite Software Automation
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Business Operations Manager:in at Cleanskin Betriebs GmbH
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: SENIOR ACCOUNTANT (REMOTE) at blinc
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Editorial Writer - InDesign at Kiddom
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Remote Fire Protection Design Engineer - Team Lead at TalentSphere Staffing Solutions
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: UI Designer at Pareto.AI
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Mid Market Account Executive, West at Ironclad
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: ALERTE : Recherche Monteur Vidéo Madagascar (OPPORTUNITÉ UNIQUE) at REACH
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Product Designer at Toggl
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Motion Designer at Contra
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Frontend Engineer at Contra
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: UI/UX Designer at Files.com
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Entry Level Sales Agent - Chat Only - Side Hustle at Used Conex LLC
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Canva Designer at Contra
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Digital Marketing Lead at Contra
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Brand Designer at Contra
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Graphic Design Internship '25 at DAYBREAKER
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Virtual Design Coordinator at IMEG Consultants
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Service Designer at steampunk
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Product Manager, Fundraising CRM at Wikimedia Foundation
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Consultant - Vault CRM at Veeva Systems
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Infrastructure Engineer at abra
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Ms Dynamics CRM 365 developer/Consultant at Infrabyte Technology Solution
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: CRM Developer - Zoho CRM (Remote) at Dignotion
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Engineer, CRM Salesforce at Nagarro
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Salesforce Developer - remote working BC based at Cansel
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Regional Service Manager CRM - Mountain West at Medtronic
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: CRM Solutions Architect (Remote) at Experian
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Technical Lead I, Frontend at HubSpot
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Remote Customer Service Rep Up to 19/hour - No Degree Needed at NoGigiddy
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Architect - Commercial Life Sciences (Remote) at Veeva Systems
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: CRM Campaign Coordinator at GrowthAssistant
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Salesforce Implementer at abra
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Client Support Specialist (Healthcare Facilities - B2B) at Clipboard Health
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: WP All Import: Technical Customer Support [WordPress] at WP All Import
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Chat Support Agent (Remote) - Entry Level, No Degree Required - 15 - 18 per Hour at NoGigiddy
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Creative Project Manager at Fusing Marketing
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Business Development Support Specialist at Integreon Intermediate
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Data Engineer (Billing Automation) at 3 Oaks Gaming
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Customer Success Associate - Performance Management at Lexipol
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Business Development Representative at Datavail Infotech
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: EU-Freelancer (m/w/d) im Inbound Kundenservice - Home-Office! at hey contact heroes GmbH
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Backend Engineer at Proton.ai
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Experienced Software Engineer - Backend at Tiller
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Software Engineer - Backend/Python - USA Only (100% Remote) at Close
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Mid-Senior Rails Systems Monitoring & Quality Assurance at WebPunch
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Symfony Developer at Proxify AB
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Shopify Developer at Proxify AB
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Laravel Developer at Proxify AB
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Ruby on Rails Developer at Proxify AB
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Affiliate Marketing Manager (Growth and Partnerships) at Simify
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Director, Product Marketing at Axonius
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Social Media Lead at Okta
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Facebook Ads Manager – Full Ownership, Real Impact at British Supplements
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Retail Media Specialist at Acadia.io
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Analytics Lead at FlagshipRTL
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Performance Marketer at GLO - Generate Leads Online
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Account Executive - Sales at Real Geeks
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Digital Marketing Coach at 6 Figure Creative
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Agency & Recruiter Partnerships Account Executive at We Work Remotely
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Director of Content, Enterprise at Animalz
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Administrative Assistant Intern (Remote – Germany / Norway / Sweden) at Executive Search Firm Global
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Remote Inside Sales at Report Owl LLC
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Sr. Product Analytics Manager (Remote) at Rula
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Fashion and Beauty Ambassador at Acosta
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Manager, Marketing Analytics at Fortis Games
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Partner Program Manager at Acosta
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Marketing Strategist at Contra
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Remote Sales Chat Representative at UsedConex.com
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Business Development Specialist at Speakeasy Authority Marketing, Inc.
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Remote Outbound Appointment Setter at One Janitorial
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Email Marketing Specialist at Contra
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Meta Ads Creative Strategist - DTC eCommerce (Remote) at Aberlite Grooming
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Head of Growth at Vinclum
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Remote Salesperson at Walter
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Director of Investments & Asset Management - Private Equity Real Estate at Walter
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Virtual Assistants - Latin America at Walter
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: QA Engineer at Elite Software Automation
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Social Media Manager at Contra
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Creative Video Editor at Contra
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Freelance Writer at ProWriterSites
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: (Implementation) Project Manager at Paymentology
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Performance Video Editor at Contra
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Procurement Analyst at Paymentology
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Languages teachers at AE Virtual Class S.A
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Remote Automation Specialist (Zapier / HighLevel / Notion) at Profitable Painter CPA PLLC
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Student Representatives at EDUopinions
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Video Editor at Contra
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Compliance Specialist at OnTheGoSystems
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: FT/PT Remote AI Prompt Engineering & Evaluation - Will Train at DataAnnotation.tech
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Online English Teacher at Native Camp
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: AI Content Evaluator/Writer at AiT
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Product Manager at Input Logic
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Product Manager at Toggl
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Head of Product at Toggl
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Backend Engineer (Remote - India) at AssetIntel
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Sr. Technical Product Manager at Applied Systems
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Independent Product Manager/Product Designer ($90-$170/hr) at A.Team
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Technical Product Manager at Tether
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Front-end Software Engineer (Vue.js) at SlidesWithFriends
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior React Front End Developer (Latin America) at Lyfeplan LLC
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Software Engineer - Frontend/React - USA Only (100% Remote) at Close
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior React Native Developer at Proxify AB
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Software Engineer at Contra
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Laravel Developer at Awesome Motive
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: No Code Developer at Contra
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Laravel/VueJS Developer for Scalable Call Center CRM Platform at OnQueCRM
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior C# Developer with strong database knowledge at Spectral Core
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: iOS App Developer at Contra
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Shopify Developer at Contra
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Founding Senior Engineer (Eng #4) at Revenue Vessel
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: AI Automation Expert at Contra
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Remote Full-Stack TypeScript Engineer at Glama
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior React Full-stack Developer at Lemon.io
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: PHP Full-Stack Developer at OnTheGoSystems
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: RoR Full-Stack Developer at OnTheGoSystems
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Software Design Engineer at Elite Software Automation
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Full Stack Engineer (NestJS, Next.js, PostgreSQL) - Remote - Work From Home at Pronto Pilates Pty Ltd
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: DevOps Engineer at Paymentology
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Account Lead at Sanctuary Computer
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Project coordinator at Sana Vita Operations LLC
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Site Reliability Engineer at Chipcolate
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior Devops Engineer at Cheqpay.mx
+2025/06/05 23:31:08 [STEP] -> [weworkremotely] Found job: Senior DevOps Engineer (Azure) at Proxify AB
+2025/06/05 23:31:08 [STEP] Parse completed
+^Csignal: interrupt

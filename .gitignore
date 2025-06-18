@@ -1,0 +1,51 @@
+.env
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Build & dependency cache
+/bin/
+/build/
+/dist/
+/vendor/
+/coverage.out
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# Test data / generated files
+*.test
+*.coverprofile
+*.cov
+*.tmp.json
+
+# Go modules cache (optional, usually outside project)
+go.sum
+
+# If you're using Docker
+docker-compose.override.yml
+*.container.log
+
+# Misc
+notex.txt
